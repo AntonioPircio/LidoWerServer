@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:15:28:13 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 500 4769 http-bio-8888-exec-1 123
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:15:28:14 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-2 0
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:16:16:40 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 500 4769 http-bio-8888-exec-1 318
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:16:18:52 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 204 - http-bio-8888-exec-1 491
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:16:19:03 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 204 - http-bio-8888-exec-2 33
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:16:19:48 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 204 - http-bio-8888-exec-1 461
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:16:21:12 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 500 5408 http-bio-8888-exec-1 739
+0:0:0:0:0:0:0:1 - - [08/Aug/2022:16:23:51 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 500 5408 http-bio-8888-exec-1 538

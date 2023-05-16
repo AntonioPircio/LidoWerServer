@@ -1,0 +1,15 @@
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/DeleteUser.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/Login.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/DeleteReservation.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/Utility.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/service/ValidateOTP.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/AES.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/Register.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/UserInfo.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/Constants.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/service/NewPassword.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/UserInfoService.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/Reservation.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/UserInfoManager.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/mobile/DatabaseConfiguration.java
+/home/antonio/Desktop/LidoWEBServer/src/main/java/com/unimol/lidowebserver/service/ForgotPassword.java

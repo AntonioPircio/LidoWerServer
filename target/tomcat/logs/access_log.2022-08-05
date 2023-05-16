@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [05/Aug/2022:17:29:19 +0200] "GET /LidoWEBServer/rest/results/all HTTP/1.1" 500 4769 http-bio-8888-exec-1 74
+0:0:0:0:0:0:0:1 - - [05/Aug/2022:17:29:20 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-2 0
